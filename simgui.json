@@ -1,0 +1,16 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Auto Drive": "Command",
+      "/SmartDashboard/Auto Mode": "String Chooser",
+      "/SmartDashboard/Autonomous Command": "Command",
+      "/SmartDashboard/ClimbStage": "Command",
+      "/SmartDashboard/IntakeToggle": "Command",
+      "/SmartDashboard/ShootNote": "Command"
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}
