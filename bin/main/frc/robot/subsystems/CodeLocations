@@ -1,0 +1,25 @@
+Definitions
+    Drivetrain Motors Defined: Subsystems-Drivetrain.Java 18-45
+    Intake Motor Defined: Subsystems-Intake.java 14-18
+    Shooter Motors Defined: Subsystems-Shooter.java 18-28
+    Shooter Piston Defined: Subsystems-Shooter.java 30-31
+    Climbing Pistons Defined: Subsystems-Stageclimb.java 15-18
+
+    Subsystems Defined: RobotContainer.java 18-20
+    Controllers Defined: RobotContainer.java 14-15
+    Buttons Defined: RobotContainer.java 57-82
+    Drivetrain Defined: Robot.java 23
+
+Methods
+    Drivetrain Method: Robot.java 59
+    Turn on Intake Method: Subsystems-Intake.java 33-35
+    Turn off Intake Method: Subsystems-Intake.java 36-38
+    Reverse Intake Method: Subsystems-Intake.java 39-41
+    Turn on Shooter to Speaker Method: Subsystems-Shooter.java 47-50
+    Turn on Shooter to Amp Method: Subsystems-Shooter.java 62-65
+    Turn off Shooter Method: Subsystems-Shooter.java 51-54
+    Intake from Shooter Method: Subsystems-Shooter.java 55-58
+    Fire Shooter Piston Method: Subsystems-Shooter.java 59-61
+    Fire Climbing Pistons Method: Subsystems-Stageclimb.java 31-34
+    Retract Climbing Pistons Method: Subsystems-Stageclimb.java 35-38
+
